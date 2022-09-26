@@ -1,0 +1,30 @@
+
+.col-sm-6 { 
+    background-color: aqua;
+    height: 5rem;
+    border-style: solid;
+}
+
+.col-sm-4 { 
+    background-color: rgb(255, 68, 0);
+    height: 5rem;
+    border-style: solid;
+}
+
+.col-sm-1 { 
+    background-color: rgb(0, 0, 255);
+    height: 5rem;
+    border-style: solid;
+}
+
+.col-sm-5 { 
+    background-color: rgb(0, 255, 60);
+    height: 5rem;
+    border-style: solid;
+}
+
+.col-sm-7 { 
+    background-color: rgb(27, 28, 28);
+    height: 5rem;
+    border-style: solid;
+}
